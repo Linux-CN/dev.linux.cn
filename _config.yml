@@ -101,3 +101,7 @@ feed:
     - atom.xml
     - rss2.xml
   limit: 20
+algolia:
+  applicationID: '36M4ZUI4J1'
+  apiKey: '0b8012d50673fc949c29a6ea2a37e5b2'
+  indexName: 'posts'
