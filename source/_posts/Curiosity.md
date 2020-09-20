@@ -5,6 +5,7 @@ tags:
   - 代码英雄
 category:
   - 阅读
+permalink: article-12635-1.html
 ---
 
 **00:00** - _Saron Yitbarek_
