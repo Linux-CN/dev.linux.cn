@@ -8,6 +8,10 @@ category:
 permalink: article-12635-1.html
 ---
 
+```js 测试代码 linux.cn 测试
+console.log(123)
+```
+
 <ruby>
   明 日 <rp>(</rp><rt>ming ri</rt><rp>)</rp>
 </ruby>
